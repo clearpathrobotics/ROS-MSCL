@@ -5,7 +5,8 @@
   <description>The ros_mscl package provides a driver for the LORD/Microstrain inertial products.</description>
   <author>Brian Bingham</author>
   <author>Parker Hannifin Corp</author>
-  <maintainer email="sensing_support@lord.com">Parker Hannifin Corp</maintainer>
+  <author>Chris Iverach-Brereton</author>
+  <maintainer email="civerachb@clearpathrobotics.com">Chris Iverach-Brereton</maintainer>
   <license>MIT</license>
   <url type="website">https://github.com/LORD-MicroStrain/ROS-MSCL</url>
 
@@ -24,7 +25,10 @@
 
   <build_depend>message_generation</build_depend>
   <build_depend>roslint</build_depend>
-  <build_depend>libmscl</build_depend>
+  <!--
+    TODO - host c++-mscl on our deb server, update rosdep lists so this dependency works!
+    <build_depend>libmscl</build_depend>
+  -->
   <exec_depend>message_runtime</exec_depend>
   <exec_depend>diagnostic_aggregator</exec_depend>
 
