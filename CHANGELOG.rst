@@ -25,8 +25,8 @@ Changelog for package ros_mscl
 * Added device feature detection to improve compatibility with a greater range of devices
 * Added Parker Hannifin Corp to maintainers
 
-Forthcoming
------------
+1.0.1 (2021-02-09)
+------------------
 * Move the libmscl dependency to a normal depend, as it's required for both building & running
 * Remove the examples folder, move the ros_mscl contents into the root of the repo. Update the package data to remove the broken dependency (until we can get it fixed). Update authors & maintainer for this fork.
 * Fixed bug preventing device report service from working on a GQ7.
