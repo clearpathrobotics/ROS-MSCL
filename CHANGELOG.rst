@@ -2,8 +2,8 @@
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.3 (2021-02-10)
+------------------
 * Fix missing dependencies that are breaking the buildfarm
 * Contributors: Chris Iverach-Brereton
 
