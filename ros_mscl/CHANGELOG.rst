@@ -1,8 +1,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
------------
+1.2.3 (2021-04-16)
+------------------
 * Merge the recent upstream changes so we're compatible with MSCL 61.1.6.
 * Keep the old version numbers, re-add our postinst and postrm scripts, but otherwise keep the structure of the repo the same as upstream; this should make it easier to update our repo down the road.
 * Added frame ids back in to not break existing configurations
