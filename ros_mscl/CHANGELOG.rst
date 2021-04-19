@@ -1,8 +1,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
------------
+1.2.4 (2021-04-19)
+------------------
 * Add an argument to specify the frame_id, instead of always using "sensor"
 * Contributors: Chris Iverach-Brereton
 
