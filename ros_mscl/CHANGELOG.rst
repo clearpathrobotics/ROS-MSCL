@@ -1,8 +1,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
------------
+1.2.5 (2021-04-21)
+------------------
 * Merge branch 'master' of github.com:LORD-MicroStrain/ROS-MSCL into upstream-sync
 * Merge pull request `#49 <https://github.com/clearpathrobotics/ros_mscl/issues/49>`_ from civerachb-cpr/rosdep-fix
   Add tf2_geometry_msgs as a dependency
