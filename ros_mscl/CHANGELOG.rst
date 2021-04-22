@@ -1,8 +1,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
------------
+1.2.6 (2021-04-22)
+------------------
 * Expose the use_enu_frame parameter as an arg
 * Contributors: Chris Iverach-Brereton
 
