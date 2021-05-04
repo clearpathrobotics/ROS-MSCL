@@ -2,6 +2,11 @@
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Explicitly name the mscl_msgs package
+* Contributors: Chris Iverach-Brereton
+
 1.2.6 (2021-04-22)
 ------------------
 
