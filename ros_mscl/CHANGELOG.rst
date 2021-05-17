@@ -1,8 +1,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
------------
+1.2.8 (2021-05-17)
+------------------
 * Make the libmscl a normal depend, not just a build_depend.
 * Use [ ... ] instead of [[ ... ]] in the postinst and postrm scripts
 * Contributors: Chris Iverach-Brereton
