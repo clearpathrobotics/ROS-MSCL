@@ -2,6 +2,9 @@
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.2.7 (2021-05-04)
 ------------------
 * Explicitly name the mscl_msgs package
