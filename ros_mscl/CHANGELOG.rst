@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Forthcoming
+-----------
+* Add a polling loop to wait for the serial device to actually exist on-disk before opening it
+* Contributors: Chris Iverach-Brereton
+
 1.2.8 (2021-05-17)
 ------------------
 * Make the libmscl a normal depend, not just a build_depend.
