@@ -1,8 +1,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package ros_mscl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Forthcoming
------------
+1.2.9 (2021-08-17)
+------------------
 * Add a polling loop to wait for the serial device to actually exist on-disk before opening it
 * Contributors: Chris Iverach-Brereton
 
