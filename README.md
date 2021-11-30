@@ -1,3 +1,16 @@
+# Deprecation Notice
+
+This repository was an interrim so Clearpath Robotics could publish the `ros_mscl` driver through our build-farm for release on our robot platforms.
+
+The official version of this driver has now been released via the official ROS build-farm and can be installed by running
+
+```bash
+sudo apt-get install ros-$ROS_DISTRO-microstrain-inertial-driver
+```
+
+We encourage you to install the official version of the driver.  If your project has a `rosdep` on the `ros_mscl` package, please update it to depend on `microstrain_inertial_driver` instead.
+
+
 ## Description
 
 Interface (driver) software, including ROS node, for inertial sensors compatible with the [Microstrain Communication Library (MSCL)](https://github.com/LORD-MicroStrain/MSCL).
